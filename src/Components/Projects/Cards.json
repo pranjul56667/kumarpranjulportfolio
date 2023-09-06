@@ -12,8 +12,8 @@
         "imageUrl": "https://raw.githubusercontent.com/Princerwtt/Images/main/imdb.png",
         "title": "Imdb-clone",
         "description": "Imdb clone website build with ReactJS",
-        "demo": "https://movie-imdb-xi.vercel.app/",
-        "sourceCode": "https://github.com/Princerwtt/movie-imdb"
+        "demo": "https://imdb-clone-lime.vercel.app/",
+        "sourceCode": "https://github.com/pranjul56667/imdbClone"
     },
     {
         "id": 3,
@@ -28,7 +28,7 @@
         "imageUrl": "https://raw.githubusercontent.com/Princerwtt/Images/main/cardgame.png",
         "title": "War Game",
         "description": "An app simple card game build with Html, CSS and Javascript",
-        "demo": "https://princerwtt.github.io/Card-Game/",
-        "sourceCode": "https://github.com/Princerwtt/Card-Game"
+        "demo": "https://pranjul56667.github.io/cardGame/",
+        "sourceCode": "https://github.com/pranjul56667/cardGame"
     }
 ]
