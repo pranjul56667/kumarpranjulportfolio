@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import pdf from "./pdf/resume.pdf"; // Update the path to your PDF file
+import pdf from "./pdf/resumee.pdf"; // Update the path to your PDF file
 
 const Resume = () => {
   return (
